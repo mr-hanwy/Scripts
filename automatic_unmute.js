@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         自动取消静音
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/mr-hanwy/Scripts
 // @version      2024-02-01
 // @description  自动取消静音
 // @author       Hanwy
