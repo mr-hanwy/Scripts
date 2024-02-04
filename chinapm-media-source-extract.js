@@ -182,8 +182,6 @@
         _append.call(this, buffer);
       }
 
-      setTimeout(_tenRatePlay, 3000);
-
       return sourceBuffer;
     }
 
